@@ -1,0 +1,13 @@
+{
+  "mcpServers": {
+    "youtube-notes": {
+      "command": "python",
+      "args": [
+        "C:\\Users\\YourUsername\\mcp-servers\\youtube-lecture-notes\\server.py"
+      ],
+      "env": {
+        "OBSIDIAN_VAULT_PATH": "C:\\Users\\YourUsername\\Documents\\ObsidianVault"
+      }
+    }
+  }
+}
