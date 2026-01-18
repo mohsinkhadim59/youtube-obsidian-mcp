@@ -383,7 +383,6 @@ Contributions are welcome! Feel free to:
 
 Built with:
 
-- [MCP SDK](https://github.com/anthropics/anthropic-quickstarts/tree/main/mcp) - Model Context Protocol
 - [yt-dlp](https://github.com/yt-dlp/yt-dlp) - YouTube download tool
 - [FFmpeg](https://ffmpeg.org/) - Video processing
 - [Obsidian](https://obsidian.md/) - Knowledge management
