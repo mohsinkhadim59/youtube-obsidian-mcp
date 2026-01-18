@@ -132,7 +132,7 @@ We welcome contributions! See areas for improvement:
 
 ## Credits
 
-**Created by**: [Mohsin Khadim]
+**Created by**: [Mohsin Khadim](https://github.com/mohsinkhadim59)
 **License**: MIT
 **Built with**: Python, MCP SDK, yt-dlp, FFmpeg, Obsidian
 
