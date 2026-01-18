@@ -12,7 +12,8 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Python 3.10+](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/downloads/)
-
+![Last Commit](https://img.shields.io/github/last-commit/mohsinkhadim59/Networking-Basics-By-Cisco?style=flat&label=Updated&labelColor=555&color=red)
+![Views](https://komarev.com/ghpvc/?username=mohsinkhadim59&repo=Networking-Basics-By-Cisco&style=flat&label=Views&color=blueviolet)
 </div>
 
 ---
