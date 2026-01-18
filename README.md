@@ -24,14 +24,14 @@
 
 ## ✨ Features
 
-- 🎥 **Auto-extract subtitles** from any YouTube video with captions
-- 📸 **Capture screenshots** at timestamps you specify
-- 📝 **Generate structured notes** in Obsidian markdown format
-- 🏷️ **Organized metadata** with tags, dates, and video links
-- 📜 **Full transcripts** included with timestamps
-- 🔍 **Preview subtitles** before processing
-- ⚙️ **Customizable paths** for your Obsidian vault organization
-- 🤖 **Works with Claude AI** for natural language interaction
+-  **Auto-extract subtitles** from any YouTube video with captions
+-  **Capture screenshots** at timestamps you specify
+-  **Generate structured notes** in Obsidian markdown format
+-  **Organized metadata** with tags, dates, and video links
+-  **Full transcripts** included with timestamps
+-  **Preview subtitles** before processing
+-  **Customizable paths** for your Obsidian vault organization
+-  **Works with Claude AI** for natural language interaction
 
 ---
 
@@ -41,12 +41,12 @@ Learn from YouTube videos on **any** topic:
 
 | Category                       | Examples                                        |
 | ------------------------------ | ----------------------------------------------- |
-| 💻 **Programming**             | Python, JavaScript, React, Web Development      |
-| 🎨 **Creative Skills**         | Photoshop, Premiere Pro, Blender, Video Editing |
-| 📊 **Business & Productivity** | Excel, Data Analysis, Project Management        |
-| 🔬 **Academic**                | Math, Physics, Chemistry, Biology               |
-| 🌐 **IT & Networking**         | CCNA, AWS, CompTIA, Cybersecurity               |
-| 🎓 **Personal Development**    | Languages, Fitness, Cooking, Music              |
+|  **Programming**             | Python, JavaScript, React, Web Development      |
+|  **Creative Skills**         | Photoshop, Premiere Pro, Blender, Video Editing |
+|  **Business & Productivity** | Excel, Data Analysis, Project Management        |
+|  **Academic**                | Math, Physics, Chemistry, Biology               |
+|  **IT & Networking**         | CCNA, AWS, CompTIA, Cybersecurity               |
+|  **Personal Development**    | Languages, Fitness, Cooking, Music              |
 
 ---
 
