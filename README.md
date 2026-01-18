@@ -411,6 +411,6 @@ Built with:
 
 <div align="center">
 
-**Made with ❤️ for learners everywhere**
+**Made with ❤️ for learners everywhere** by [Mohsin Khadim](https://github.com/mohsinkhadim59)
 
 </div>
